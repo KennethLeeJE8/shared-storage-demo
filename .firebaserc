@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "shared-storage-demo"
-  }
+    "default": "demo-shared-storage",
+    "dev": "sample-firebase-ai-app-64a84"
+  },
+  "targets": {},
+  "etags": {}
 }
